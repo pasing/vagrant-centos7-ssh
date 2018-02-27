@@ -1,7 +1,9 @@
 # Vagrant Docker Provider Image [Centos7-SSH]
 
 Based on [CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles/tree/master/ssh/centos7)
+
 Modified by [Mattew Cwarman](https://raw.githubusercontent.com/mcwarman/vagrant-docker-provider/)
+
 
 ## Usage
 
@@ -61,7 +63,7 @@ This will tell you the state of the machines Vagrant is managing.
 
 This will SSH into a running Vagrant machine and give you access to a shell.
 
-# Destroy
+### Destroy
 
 **Command: `vagrant destroy [name|id]`**
 This command stops the running machine Vagrant is managing and destroys all resources that were created during the machine creation process. 
