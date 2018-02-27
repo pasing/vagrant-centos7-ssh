@@ -19,7 +19,7 @@ ENV['VAGRANT_DEFAULT_PROVIDER'] = 'docker'
 
 Vagrant.configure("2") do |config|
   config.vm.provider "docker" do |d|
-    d.image = "pasing/Centos7-SSH:centos7"
+    d.image = "pasing/centos7-ssh"
     d.has_ssh = true
   end
 end
