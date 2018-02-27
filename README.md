@@ -1,4 +1,4 @@
-# Centos7-SSH Vagrant Docker Provider
+# Vagrant Docker Provider Image [Centos7-SSH]
 
 Based on [CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles/tree/master/ssh/centos7)
 Modified by [Mattew Cwarman](https://raw.githubusercontent.com/mcwarman/vagrant-docker-provider/)
