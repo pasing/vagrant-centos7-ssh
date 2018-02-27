@@ -1,0 +1,7 @@
+# Vagrant stuff
+/.vagrant
+
+# IDE junk
+.idea/*
+*.iml
+.project
